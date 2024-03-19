@@ -1,4 +1,4 @@
-# Furball Facts App
+# FurballFacts App
 
 ## Preview
 
